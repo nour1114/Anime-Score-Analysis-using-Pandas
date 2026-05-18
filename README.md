@@ -33,3 +33,41 @@ Example dataset columns:
 Name
 Type
 Score
+⚡ Features
+
+✅ Data grouping using groupby()
+✅ Mean score calculation
+✅ Sorting values
+✅ Data visualization with bar charts
+
+▶️ Installation
+
+Install required libraries:
+
+pip install pandas matplotlib seaborn
+▶️ Run the Project
+python main.py
+📊 Example Output
+Movie    8.85
+TV       8.67
+📈 Visualization
+
+The project generates a bar chart showing:
+
+Anime Type
+Average Score
+
+This makes it easier to compare rating trends visually.
+
+🎯 Learning Objectives
+
+This project helps practice:
+
+Data Analysis
+Grouping Data
+Aggregation Functions
+Data Visualization
+Exploratory Data Analysis (EDA)
+👨‍💻 Author
+
+Created by Nour Elsayed
